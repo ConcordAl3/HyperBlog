@@ -1,0 +1,3 @@
+este es un nuevo proyecto Git
+
+eh agregado un footer algo simple a mi pagina Web.

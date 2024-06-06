@@ -1,1 +1,5 @@
 este es un nuevo proyecto Git
+
+eh agregado un footer algo simple a mi pagina Web.
+
+por otro lado quiero ver que mas puedo agregarle, si gustas ayudarme puedes hacerlo (necesito ideas nuevas).

@@ -53,3 +53,7 @@ ul{
     flex-wrap: nowrap;
     justify-content: space-evenly;
 }
+
+li{
+    list-style: none;
+}

@@ -23,6 +23,14 @@ h1, h2, p{
     text-align: center;
 }
 
+h2{
+    font-size: 5rem;
+}
+
+p{
+    font-size: 3rem;
+}
+
 main{
     padding: 3rem;
     height: 60vh;
@@ -37,4 +45,11 @@ main{
 footer{
     height: 20vh;
     background-color: cadetblue;
+}
+
+ul{
+    font-size: 3.5rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
 }

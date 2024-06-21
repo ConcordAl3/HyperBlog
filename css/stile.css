@@ -16,6 +16,10 @@ header{
     align-items: center;
 }
 
+h1{
+    color: brown;
+}
+
 h1, h2, p{
     padding: 2rem;
     margin: 0 auto;

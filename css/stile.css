@@ -13,7 +13,7 @@ header{
     height: 30vh;
     background-color: cadetblue;
     display: flex;
-    justify-content: center;
+    align-items: center;
 }
 
 h1, h2, p{
@@ -43,17 +43,21 @@ main{
 }
 
 footer{
-    height: 20vh;
+    height: 10vh;
     background-color: cadetblue;
+    
 }
 
 ul{
-    font-size: 3.5rem;
+    font-size: 2rem;
     display: flex;
-    flex-wrap: nowrap;
     justify-content: space-evenly;
 }
 
 li{
+    margin-top: 1rem;
+    border-radius: 2rem;
+    padding: 1rem;
+    background-color: darkseagreen;
     list-style: none;
 }

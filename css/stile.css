@@ -30,7 +30,7 @@ header{
     
 
 h1{
-    color: aliceblue;
+    color: antiquewhite;
 }
 
 h1, h2, p{
@@ -38,6 +38,7 @@ h1, h2, p{
     margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    color: antiquewhite;
 }
 
 h2{
@@ -79,6 +80,6 @@ li{
     padding: 1rem;
     background-color: #5ccb5f;
     list-style: none;
-    color: aliceblue;
+    color: antiquewhite;
     font-size: 1.5rem;
 }

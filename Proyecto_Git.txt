@@ -3,3 +3,5 @@ este es un nuevo proyecto Git
 eh agregado un footer algo simple a mi pagina Web.
 
 hice una rama nueva, llamada "cabecera" agrege cambios e hice un nuevo estilo para el footer del html
+
+ahora soy Rafaelssh y estoy trabajando desde linux en mi windows 11

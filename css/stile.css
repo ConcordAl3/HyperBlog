@@ -68,11 +68,12 @@ footer{
 ul{
     font-size: 2rem;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 li{
     margin-top: 1rem;
+    margin-right: 1rem;
     border-radius: 2rem;
     padding: 1rem;
     background-color: #5ccb5f;

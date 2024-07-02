@@ -41,10 +41,11 @@ h1, h2, p{
 }
 
 h2{
-    font-size: 5rem;
+    font-size: 3rem;
 }
 
 p{
+    text-align: justify;
     font-size: 3rem;
 }
 
@@ -60,12 +61,12 @@ main{
 }
 
 footer{
-    height: 10vh;
+    height: 17vh;
     background-color: #006414;
-    
 }
 
 ul{
+    margin-top: 4rem;
     font-size: 2rem;
     display: flex;
     justify-content: center;

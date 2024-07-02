@@ -5,16 +5,29 @@
 }
 
 html{
-    background-color: rgb(83, 81, 81);
+    background-color: #003400;
     font-size: 62.5%;
 }
 
 header{
-    height: 30vh;
-    background-color: cadetblue;
+    height: 20vh;
+    background-color: #006414;
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
+
+
+.lista_del_encaezado{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.items_encabezado{
+    margin-right: 1rem;
+    font-size: 1rem;
+}
+    
 
 h1{
     color: aliceblue;
@@ -40,7 +53,7 @@ main{
     height: 60vh;
     border-radius: 5rem;
     margin: 1rem 2rem;
-    background-color: darkcyan;
+    background-color: #009929;
     display: flex;
     justify-content: center;
     flex-wrap: wrap
@@ -48,7 +61,7 @@ main{
 
 footer{
     height: 10vh;
-    background-color: cadetblue;
+    background-color: #006414;
     
 }
 
@@ -62,6 +75,8 @@ li{
     margin-top: 1rem;
     border-radius: 2rem;
     padding: 1rem;
-    background-color: darkseagreen;
+    background-color: #5ccb5f;
     list-style: none;
+    color: aliceblue;
+    font-size: 1.5rem;
 }

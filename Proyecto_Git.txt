@@ -6,4 +6,6 @@ hice una rama nueva, llamada "cabecera" agrege cambios e hice un nuevo estilo pa
 
 hola, soy rafaelssh, eh completa y mejorado mi header. Tambien me tome el atevimiento de agregar una paleta de colores a un tema en verde, y de corregir ciertas cosas tambien del el footer, espero que no le moleste al dueño del repositorio
 
+me sacaron de la colaboracion del proyecto, pero como me gusta mucho aun asi voy a contribuir desde afuera a este proyecto
+
 saque a rafaelssh del proyecto porque no tengo como seguir pagando su nomina (esto es un proyecto opensource ahora)

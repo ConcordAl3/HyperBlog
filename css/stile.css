@@ -13,8 +13,10 @@ header{
     height: 20vh;
     background-color: #006414;
     display: flex;
-    flex-direction: column;
+    justify-content: flex-end;
     flex-wrap: wrap;
+    align-content: center;
+    align-items: stretch;
 }
 
 
@@ -25,9 +27,13 @@ header{
 
 .items_encabezado{
     margin-right: 1rem;
-    font-size: 1rem;
+    font-size: 2rem;
 }
-    
+
+.logo{
+    padding: 1rem;
+    width: 10vw;
+}
 
 h1{
     color: antiquewhite;
@@ -52,13 +58,18 @@ p{
 
 main{
     padding: 3rem;
-    height: 60vh;
+    min-height: 60vh;
     border-radius: 5rem;
     margin: 1rem 2rem;
     background-color: #009929;
     display: flex;
     justify-content: center;
     flex-wrap: wrap
+}
+
+img{
+    width: 100vh;
+    border-radius: 2rem;
 }
 
 footer{
@@ -81,5 +92,5 @@ li{
     background-color: #5ccb5f;
     list-style: none;
     color: antiquewhite;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }

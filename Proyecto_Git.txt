@@ -11,3 +11,5 @@ me sacaron de la colaboracion del proyecto, pero como me gusta mucho aun asi voy
 saque a rafaelssh del proyecto porque no tengo como seguir pagando su nomina (esto es un proyecto opensource ahora)
 
 master 1
+
+master 2
